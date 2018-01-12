@@ -1,0 +1,11 @@
+12/Jan/18 14:52:17  : 4 images were converted in 0.054000 seconds 
+12/Jan/18 14:52:23  : Image index edge extracted in 0.008000 seconds 
+12/Jan/18 14:52:23  : Output of image index saved into output folder in 0.003000 seconds 
+12/Jan/18 14:52:24  : Image MARIO edge extracted in 0.056000 seconds 
+12/Jan/18 14:52:24  : Output of image MARIO saved into output folder in 0.012000 seconds 
+12/Jan/18 14:52:24  : Image PhotoCamera2 edge extracted in 0.004000 seconds 
+12/Jan/18 14:52:24  : Output of image PhotoCamera2 saved into output folder in 0.002000 seconds 
+12/Jan/18 14:52:24  : Image Prova edge extracted in 0.024000 seconds 
+12/Jan/18 14:52:24  : Output of image Prova saved into output folder in 0.023000 seconds 
+12/Jan/18 14:52:25  : Image Sunglasses edge extracted in 0.002000 seconds 
+12/Jan/18 14:52:25  : Output of image Sunglasses saved into output folder in 0.003000 seconds 

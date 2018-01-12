@@ -1,0 +1,12 @@
+Prerequisites:
+
+1. Install Python 3.6
+2. Import Tkinter si OpenCV
+3. Make a folder in the following location: C:\Users\*your_username*\Desktop\Master MPI\BIO
+4. Copy contents of this archive in the location from 3.
+
+
+Run: 
+
+1. Run C:\Users\*your_username*\Desktop\Master MPI\BIO\proiect_bio_edge_extraction\EdgeDetectGUI.py
+
